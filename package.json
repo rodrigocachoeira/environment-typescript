@@ -1,0 +1,26 @@
+{
+  "name": "orion",
+  "version": "1.0.0",
+  "description": "Environment for Typescript",
+  "main": "script.js",
+  "scripts": {
+    "build": "tsc -p ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigocachoeira/environment-typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Rodrigo Cachoeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigocachoeira/environment-typescript/issues"
+  },
+  "homepage": "https://github.com/rodrigocachoeira/environment-typescript#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "typescript": "^1.8.10"
+  }
+}
