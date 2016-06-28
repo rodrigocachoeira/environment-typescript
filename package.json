@@ -4,7 +4,7 @@
   "description": "Environment for Typescript",
   "main": "script.js",
   "scripts": {
-    "build": "tsc -p ./src"
+    "ts": "tsc -p ./src"
   },
   "repository": {
     "type": "git",
