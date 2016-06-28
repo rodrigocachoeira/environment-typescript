@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outFile": "../production/js/script.js",
+        "sourceMap": true
+    },
+    "files": [
+        "js/example.ts"
+    ]
+}
